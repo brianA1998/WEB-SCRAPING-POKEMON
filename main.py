@@ -1,5 +1,5 @@
 """Este modulo tiene como finalidad obtener el nombre,tipo y especie
-    de determinados pokemon. Se utiliza la libreria BeautifulSoup
+    de determinados pokemon. Se utiliza la libreria BeautifulSoup y requests
     para lograr la extraccion de informacion de la pagina web especificada"""
 
 __author__ = "Brian Ezequiel Alaniz"
